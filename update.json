@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.1",
-    "changelog":  "Added Autoupdater",
-    "download_url":  "https://github.com/zeachh/zeachify-updates/releases/download/v1.0.1/zeachify.exe"
+    "version":  "1.0.2",
+    "changelog":  "Fix for autoupdater",
+    "download_url":  "https://github.com/zeachh/zeachify-updates/releases/download/v1.0.2/zeachify.exe"
 }
